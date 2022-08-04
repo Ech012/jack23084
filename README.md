@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jack</h1>
+<h1 align="center">Hi 👋, I'm Echo</h1>
 <h3 align="center">Dev</h3>
 
 - 🌱 I’m currently learning **Linux**
